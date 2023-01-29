@@ -1,2 +1,2 @@
 # DAB501
- DAB 501 Course Management
+ DAB 501 - Basics Statistics & EDA
